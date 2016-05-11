@@ -1,0 +1,10 @@
+mum\edu\domain\Movie.class
+mum\edu\domain\Category.class
+mum\edu\domain\Director.class
+mum\edu\dao\DaoMovie.class
+mum\edu\domain\Actor.class
+mum\edu\dao\DaoDirector.class
+mum\edu\domain\Genre.class
+mum\edu\extra\HomeController.class
+mum\edu\dao\DaoActor.class
+mum\edu\domain\Rating.class
